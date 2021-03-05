@@ -1,6 +1,15 @@
+# darknet转caffe
+
+本项目基于 https://github.com/ChenYingpeng/darknet2caffe 改进
+
+改进如下：
+
+- python2 -> python3
+- 修复了对`yolov4-tiny`的支持
+
 # Requirements
   
-  Python2.7
+  Python3
 
   Caffe
 
